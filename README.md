@@ -130,5 +130,5 @@ These parameters work together to influence the API's behavior and output:
 
 ---
 
-**Contributed by:** [Your Name]  
-**Date:** [Insert Date]  
+**Contributed by:** [Ameer Hamza]  
+**Date:** [11/12/2024]  
